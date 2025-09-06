@@ -14,7 +14,7 @@ This repository contains a standalone Python GUI for interfacing with the BK Pre
 - Required packages:  
 
 ```python
-pip install numpy matplotlib
+pip install numpy matplotlib tkinter datetime time
 ```
 
 - BK Precision 4054B connected via USB (e.g., "USB0::0xF4EC::0xEE38::515E21166::INSTR")
