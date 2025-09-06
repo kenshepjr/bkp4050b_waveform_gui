@@ -23,8 +23,7 @@ pip install numpy matplotlib tkinter datetime time
 
 # Getting Started
 - Clone the repository:
-git clone https://github.com/your-username/BK_Arb_Waveform_GUI.git
-cd BK_Arb_Waveform_GUI
+git clone https://github.com/kenshepjr/bkp4050b_waveform_gui
 - Run the GUI:
 python cont_BK_Arb_Waveform_Generator_V3.py
 - Select a waveform and adjust parameters. The GUI will send commands to the BK Precision device and display feedback.
